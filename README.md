@@ -18,4 +18,4 @@ Hi, I am Kaung Htet Myat. I am a software engineer with a degree in computer sci
 
 :world_map: Bullet points of technology interests: Docker/AWS
 
-:full_moon_with_face: Fun fact: I actually like rain.
+:full_moon_with_face: Fun fact: I actually like rain. :cloud_with_rain:

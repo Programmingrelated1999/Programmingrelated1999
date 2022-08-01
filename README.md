@@ -2,3 +2,10 @@
 
 # Kaung Htet Myat
 -------------------------------------------------------
+
+Hi, I am Kaung Htet Myat. I am a software engineer with a degree in computer science from University of Colorado Colorado Springs. I took a python programming class during the second semester of college and decided to choose coding as a career. I am skilled in MERN stack and worked in various projects during my freetime. 
+
+## About Me
+-------------------------------------------------------
+
+

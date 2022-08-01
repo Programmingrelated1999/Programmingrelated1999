@@ -8,7 +8,7 @@ Hi, I am Kaung Htet Myat. I am a software engineer with a degree in computer sci
 ## About Me
 -------------------------------------------------------
 
-:notebook_with_decorative_cover: Currently learning & Want to learn next: I am currently learning various topics on web development from a free online course offered by The University of Helsinki called [fullstackopen](https://fullstackopen.com/en/).
+:notebook_with_decorative_cover: Currently learning & Want to learn next: I am currently learning various topics on web development from a free online course offered by The University of Helsinki called [fullstackopen](https://fullstackopen.com/en/). I also enjoy learning different topics from a youtube channel called [The Net Ninja](https://www.youtube.com/c/TheNetNinja/playlists).
 
 :computer: Currently working on: I am currently working on my personal porfolio. I also have another project to work on a MERN app using GraphQL.
 

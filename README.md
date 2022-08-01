@@ -8,4 +8,4 @@ Hi, I am Kaung Htet Myat. I am a software engineer with a degree in computer sci
 ## About Me
 -------------------------------------------------------
 
-
+:notebook_with_decorative_cover:	I am currently learning various topics on web development from a free online course offered by The University of Helsinki called fullstackopen.

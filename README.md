@@ -20,4 +20,3 @@ Hi, I am Kaung Htet Myat. I am a software engineer with a Bachelor of Science de
 
 :full_moon_with_face: Fun fact: I actually like rain. :cloud_with_rain:
 
-### Currently a lot of my repositories are switched to private. This is because I am searching for a job and using this github account as a showcase to employers. Therefore I have switched a lot(almost all) of my work to private and currently filtering repositories to properly present to the employers. They will be made available as soon as possible but I am expecting around 2 weeks(as I have a busy schedule right now).

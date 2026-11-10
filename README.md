@@ -3,9 +3,15 @@
 # Kaung Htet Myat
 -------------------------------------------------------
 
-<b>Software Engineer</b>. I did my undergraduate degree in computer science from University of Colorado Colorado Springs.
+<b>Software Engineer</b><br>
+Welcome to my Github profile. I am a software engineer with professional work experience in e-commerce. 
+And here I build random stuffs. 
 
-Now I am doing my masters in AI at University of East Anglia. 
+I studied computer science in school. A bit about my education:
+<ul>
+  <li>Education[1]: MS Artificial Intelligence <i>University of East Anglia</i></li>
+  <li>Education[2]: BS Computer Science <i>University of Colorado Colorado Springs</i></li>
+</ul>
 
 ## About Me
 -------------------------------------------------------

@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-# Kaung Htet Myat
--------------------------------------------------------
+# My name is Kaung Htet Myat.
 
 <b>Software Engineer</b><br>
 Welcome to my Github profile. I am a software engineer with professional work experience in e-commerce. 

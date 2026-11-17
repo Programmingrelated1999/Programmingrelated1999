@@ -12,8 +12,5 @@ I studied computer science in school. A bit about my education:
   <li> 📖 BS Computer Science <i>University of Colorado Colorado Springs</i> 2020-2022 </li>
 </ul>
 
-## About Me
--------------------------------------------------------
-:envelope: Contact info: programmingrelated1999@gmail.com 
 
 
